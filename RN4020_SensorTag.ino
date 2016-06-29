@@ -1,12 +1,12 @@
 
-// RN4020 central connect peripheral, TI CC2451 SensorTag test.
+// RN4020 central connect peripheral, TI CC2541 SensorTag for test.
 // by PCT / tom hsieh.
 // Board : Arduino M0 PRO ( MCU : ATSAMD21G18A, ARM Cortex M0+ ). 
 // IDE : Arduino 1.7.10 ( Arduino.ORG ).
 #include <Wire.h>
 
 
-// Connect to Microchip RN4020 bluetooth LE module, preseting :
+// Connect to Microchip RN4020 bluetooth LE module, presetting :
 // - buadrate 9600pbs.
 // - Central.
 // - Not support MLDP.
